@@ -8,7 +8,7 @@
 Experienced professional with a diverse skill set spanning both creative and technical domains. Proficient in backend development, WordPress backend management, and frontend development.
 Skilled in crafting visually appealing and user-centric web designs through HTML and CSS.
 
-Additionally, well-versed in Adobe Creative Suite tools like Photoshop, Illustrator, InDesign, and Premiere, as well as multimedia applications such as Vuforia, Unity, and Cinema4D. 
+Additionally, well-versed in Adobe Creative Suite tools, as well as multimedia applications such as Vuforia, Unity, and Cinema4D. 
 Adept in devising strategic marketing approaches using E-GOI, Mailchimp, and StoryHeap. Known for strong organizational skills in executing multi-platform advertising campaigns,
 driven by a proactive and innovative mindset.
 
