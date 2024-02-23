@@ -1,6 +1,6 @@
+
 ![GuiBelchior's Stats](https://github-readme-stats.vercel.app/api?username=GuiBelchior&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-![GuiBelchior's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GuiBelchior&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 
 
@@ -13,3 +13,6 @@ Adept in devising strategic marketing approaches using E-GOI, Mailchimp, and Sto
 driven by a proactive and innovative mindset.
 
 I thrive under pressure, leveraging self-taught expertise to creatively solve challenges and deliver outstanding results.
+
+![GuiBelchior's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GuiBelchior&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
