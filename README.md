@@ -3,8 +3,8 @@
 
 ![GuiBelchior's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GuiBelchior&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
-:cloud:                             :cloud:
-#Hi I'm Gui Belchior nice to see you here! 
+                       
+:cloud::floppy_disk: Hi I'm Gui Belchior nice to see you here! 
 Experienced professional with a diverse skill set spanning both creative and technical domains. Proficient in backend development, WordPress backend management, and frontend development.
 Skilled in crafting visually appealing and user-centric web designs through HTML and CSS.
 
