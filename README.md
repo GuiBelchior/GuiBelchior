@@ -1,7 +1,5 @@
 
-![GuiBelchior's Stats](https://github-readme-stats.vercel.app/api?username=GuiBelchior&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
-![GuiBelchior's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GuiBelchior&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![GuiBelchior's Stats](https://github-readme-stats.vercel.app/api?username=GuiBelchior&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) ![GuiBelchior's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GuiBelchior&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
                        
 :cloud::floppy_disk: Hi I'm Gui Belchior nice to see you here! 
