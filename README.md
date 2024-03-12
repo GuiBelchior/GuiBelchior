@@ -1,5 +1,5 @@
 
-![GuiBelchior's Stats](https://github-readme-stats.vercel.app/api?username=GuiBelchior&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) ![GuiBelchior's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GuiBelchior&layout=compact&theme=vue-dark)
+![GuiBelchior's Stats](https://github-readme-stats.vercel.app/api?username=GuiBelchior&theme=vue-dark&show_icons=true&count_private=true) ![GuiBelchior's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GuiBelchior&theme=vue-dark)
                        
 :cloud::floppy_disk: Hi I'm Gui Belchior nice to see you here! 
 Experienced professional with a diverse skill set spanning both creative and technical domains. Proficient in backend development, WordPress backend management, and frontend development.
@@ -11,5 +11,5 @@ driven by a proactive and innovative mindset.
 
 I thrive under pressure, leveraging self-taught expertise to creatively solve challenges and deliver outstanding results.
 
-
+![GuiBelchior's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GuiBelchior&theme=vue-dark)
 
