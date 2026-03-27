@@ -1,6 +1,45 @@
-<h5 align="left">Hi 👋!![GuiBelchior's Stats](https://github-readme-stats.vercel.app/api?username=GuiBelchior&theme=vue-dark&show_icons=true&count_private=true)<br>                       <br>:cloud::floppy_disk: Hi I'm Gui Belchior nice to see you here! <br>Experienced professional with a diverse skill set spanning both creative and technical domains.From Design Comunications to fully fledge programmer. Accepted in the Upskill Program, where I learn the 101 of world of programming, and later ingressed on the role of trainee on the Proficient in backend development, WordPress backend management, and frontend development.<br>Skilled in crafting visually appealing and user-centric web designs through HTML and CSS.<br><br>Additionally, well-versed in Adobe Creative Suite tools, as well as multimedia applications such as Vuforia, Unity, and Cinema4D. <br>Adept in devising strategic marketing approaches using E-GOI, Mailchimp, and StoryHeap. Known for strong organizational skills in executing multi-platform advertising campaigns,<br>driven by a proactive and innovative mindset.<br><br>I thrive under pressure, leveraging self-taught expertise to creatively solve challenges and deliver outstanding results.<br><br>![GuiBelchior's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GuiBelchior&theme=vue-dark)</h5>
 
-###
+## Hi 👋 I’m Gui Belchior
+
+I’m a **Dynamics 365 Business Central Developer** with a strong focus on **ERP systems, backend development, and business process automation**.  
+My professional path bridges **business understanding and technical execution**, shaped by Microsoft-certified upskilling and real-world ERP development experience.
+
+### 🧠 ERP & Business Central Development
+I joined the ERP world through an internship program focused on **Microsoft Dynamics 365 Business Central**, where I developed a solid understanding of both the **technical architecture** and the **business logic behind ERP solutions**.
+
+Through the **Microsoft Reskill Program**, I worked with:
+- **C/AL development** and legacy ERP concepts  
+- Business Central **extension development** and customization  
+- **Report development** using Report Builder  
+- Microsoft development standards, AL/C‑AL guidelines, and ERP best practices  
+- Core **Business Central architecture**, including business processes, data model, and modular design
+
+I validated this knowledge by earning the **MB‑820 – Dynamics 365 Business Central Developer certification**.
+
+### 🔗 Power Platform & Integrations
+Before ERP development, I completed the **Microsoft Upskill Program**, gaining hands-on experience with the Power Platform, which now complements my ERP skill set:
+- Dataverse & Power Fx  
+- Power Apps, Power Automate & Power Virtual Agents  
+- SharePoint integration  
+- Database architecture and relational data modeling  
+- API consumption using **JSON and XML** with **JavaScript** and **C#** (tested with Postman)
+
+This stage resulted in the **PL‑900 – Power Platform Fundamentals certification**.
+
+### 🎯 What I Focus On
+- Business Central customization & extension development  
+- ERP business processes translated into clean technical solutions  
+- Backend logic, integrations, and data consistency  
+- Writing maintainable, standards‑compliant code in Microsoft ecosystems
+
+My background outside of tech strengthened my ability to understand **user needs, business workflows, and system impact** — skills that are essential in ERP development environments.
+
+---
+
+💼 **Primary Stack:**  
+Dynamics 365 Business Central · C/AL / AL · Power Platform · Dataverse · APIs · ERP Architecture
+``
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
